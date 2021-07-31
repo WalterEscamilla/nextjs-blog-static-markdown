@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Proyecto de blog con MarkDownX
+siguiendo el tuto de [Carlos Azaustre](https://www.youtube.com/watch?v=g0D6VCh_fvA)
 ## Getting Started
 
 First, run the development server:
